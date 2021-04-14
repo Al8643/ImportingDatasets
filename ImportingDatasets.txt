@@ -1,0 +1,66 @@
+Q1: What is the name of what we want to predict?
+
+a. dataframe
+b. feature or attributes
+c. target
+
+Correct. target
+
+Q2: What do we want to predict from the dataset?
+
+a. price
+b. colour
+c. make
+
+Correct. price
+
+Q3: What library is primarily used for data analysis
+
+a. matplotlib
+b. pandas
+c. scikit-learn
+
+Correct. pandas
+
+Q4: What library is primarily used for machine learning
+
+a. scikit-learn
+b. Python 
+c. matplotlib
+
+Correct. scikit-learn
+
+Q5: What is the command to display the first five rows of a dataframe df?
+
+a. df.head()
+b. df.tail()
+
+Correct. df.head()
+
+Q6: What task does the following command perform?
+
+df.to_csv("A.csv")
+
+a. change the name of the column to "A.csv"
+b. load the data from a csv file called "A" into a dataframe
+c. Save the dataframe df to a csv file called "A.csv"
+
+Correct. Save the dataframe df to a csv file called "A.csv"
+
+Q7: Consider the segment of the following dataframe:
+
+What is the type of the column make?
+
+a. object
+b. int64
+c. float64
+
+Correct. object
+
+Q8: How would you generate descriptive statistics for all the columns for the dataframe df?
+
+a. df.describe()
+b. df.describe(include = "all")
+c. df.info
+
+Correct. df.describe(include = "all")
